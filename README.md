@@ -1,4 +1,4 @@
-In this project, let's build an **IPL Dashboard App** by applying the concepts we have learned till now.
+https://finalipl.ccbp.tech/In this project, let's build an **IPL Dashboard App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
 
@@ -277,4 +277,4 @@ Use these files to complete the implementation:
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
 
 
->> Live project link : https://apidata.ccbp.tech/
+>> Live project link : https://finalipl.ccbp.tech/
