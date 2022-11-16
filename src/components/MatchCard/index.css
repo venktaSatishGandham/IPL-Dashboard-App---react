@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.team-log {
+  width: 150px;
+  height: 150px;
+}
+.match-card {
+  width: 25vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #1e293b;
+  margin: 20px;
+  color: white;
+  border-radius: 20px;
+  padding: 20px;
+  text-align: center;
+}

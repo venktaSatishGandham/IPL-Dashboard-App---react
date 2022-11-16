@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.team-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.each-card {
+  width: 35vw;
+  border: 1px solid white;
+  margin: 15px;
+  border-radius: 15px;
+  background-color: #ffffff33;
+  padding: 15px;
+}
+.each-card-center-div {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.each-card-team-img {
+  width: 130px;
+  height: 160px;
+}
+.each-card-team-name {
+  color: white;
+  font-size: 25px;
+  width: 230px;
+  text-align: center;
+}
+.card-link {
+  text-decoration: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

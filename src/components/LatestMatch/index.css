@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.latest-matches-container {
+  background-color: #1e293b;
+  display: flex;
+  color: white;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px;
+}
+.second {
+  width: 180px;
+  height: 180px;
+}
